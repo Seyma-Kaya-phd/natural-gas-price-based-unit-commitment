@@ -1,0 +1,3 @@
+# Python dependencies of python/DPmodel.py (Python 3.9 or newer)
+pandas>=1.5
+openpyxl>=3.0

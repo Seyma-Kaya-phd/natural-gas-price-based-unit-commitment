@@ -1,0 +1,55 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the software and the paper below."
+title: "Annual profit-based unit commitment models for price-taking natural gas-fired power plants"
+abstract: >-
+  MIQP, piecewise linear MILP and dynamic programming implementations of the
+  profit-based unit commitment problem of a price-taking natural gas-fired
+  generating unit, solved over a full annual horizon of 8,784 hours, together
+  with sample input data for a literature benchmark unit.
+type: software
+version: 1.0.0
+date-released: "2026-09-16"
+license: MIT
+# Fill in the repository URL once the project is published on GitHub.
+repository-code: "https://github.com/<user>/annual-pbuc-natural-gas"
+keywords:
+  - unit commitment
+  - profit-based unit commitment
+  - mixed-integer quadratic programming
+  - dynamic programming
+  - piecewise linear approximation
+  - natural gas
+  - electricity markets
+authors:
+  - family-names: Kaya
+    given-names: Şeyma
+    affiliation: "Department of Industrial Engineering, Kadir Has University, Istanbul, Turkey"
+  - family-names: Yücekaya
+    given-names: "Ahmet Deniz"
+    affiliation: "Department of Industrial Engineering, Kadir Has University, Istanbul, Turkey"
+  - family-names: Özel
+    given-names: "Muzaffer Görkem"
+    affiliation: "Department of Industrial Engineering, Yeditepe University, Istanbul, Turkey"
+  - family-names: Çelebi
+    given-names: Emre
+    affiliation: "Department of Industrial Engineering, Yeditepe University, Istanbul, Turkey"
+  - family-names: Canbolat
+    given-names: "Pelin Gülşah"
+    affiliation: "Department of Industrial Engineering, Yeditepe University, Istanbul, Turkey"
+preferred-citation:
+  # Add journal, volume, pages, year and DOI once the paper is published.
+  type: article
+  title: >-
+    Solving Large-Scale Annual Profit-Based Unit Commitment Problems for
+    Price-Taking Natural Gas Power Plants
+  authors:
+    - family-names: Kaya
+      given-names: Şeyma
+    - family-names: Yücekaya
+      given-names: "Ahmet Deniz"
+    - family-names: Özel
+      given-names: "Muzaffer Görkem"
+    - family-names: Çelebi
+      given-names: Emre
+    - family-names: Canbolat
+      given-names: "Pelin Gülşah"
