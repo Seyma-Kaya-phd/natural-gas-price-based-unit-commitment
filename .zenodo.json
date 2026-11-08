@@ -1,0 +1,15 @@
+{
+  "title": "Full-year profit-based unit commitment of natural gas-fired power plants: models and data",
+  "upload_type": "software",
+  "version": "1.0",
+  "license": "MIT",
+  "description": "GAMS and Python implementations, input data and analysis scripts for the paper 'Full-year profit-based unit commitment of natural gas-fired power plants: Annual gas requirement and the cost of horizon decomposition' (submitted to Gas Science and Engineering).",
+  "keywords": ["profit-based unit commitment", "natural gas-fired power plant", "gas consumption", "rolling horizon", "MIQP", "dynamic programming", "forced outages"],
+  "creators": [
+    {"name": "Kaya, Şeyma", "affiliation": "Kadir Has University"},
+    {"name": "Yücekaya, Ahmet Deniz", "affiliation": "Kadir Has University"},
+    {"name": "Özel, Muzaffer Görkem"},
+    {"name": "Çelebi, Emre", "affiliation": "Yeditepe University"},
+    {"name": "Canbolat, Pelin Gülşah"}
+  ]
+}
