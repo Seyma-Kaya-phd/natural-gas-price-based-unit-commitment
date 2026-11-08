@@ -1,0 +1,20 @@
+# GAMS working files
+runs/
+225*/
+*.lst
+*.log
+*.lxi
+*.gdx
+*.~gm
+rhq_*.txt
+rh_idx.txt
+# Python
+__pycache__/
+*.pyc
+policy_store/
+metrics/
+figures/
+.ipynb_checkpoints/
+# OS
+.DS_Store
+Thumbs.db
