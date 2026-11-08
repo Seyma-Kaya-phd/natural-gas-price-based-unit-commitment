@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "Full-year profit-based unit commitment of natural gas-fired power plants: models and data"
+version: "1.0"
+date-released: 2026-10-21
+license: MIT
+repository-code: "https://github.com/Seyma-Kaya-phd/natural-gas-price-based-unit-commitment"
+# doi: 10.5281/zenodo.XXXXXXX   (add after the Zenodo release)
+authors:
+  - family-names: "Kaya"
+    given-names: "Şeyma"
+    affiliation: "Kadir Has University"
+  - family-names: "Yücekaya"
+    given-names: "Ahmet Deniz"
+    affiliation: "Kadir Has University"
+  - family-names: "Özel"
+    given-names: "Muzaffer Görkem"
+  - family-names: "Çelebi"
+    given-names: "Emre"
+    affiliation: "Yeditepe University"
+  - family-names: "Canbolat"
+    given-names: "Pelin Gülşah"

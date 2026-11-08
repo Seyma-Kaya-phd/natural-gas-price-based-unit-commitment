@@ -1,0 +1,4 @@
+unit,description,Qmin_MW,Qmax_MW,A_MMBtu_per_MW2h,B_MMBtu_per_MWh,C_MMBtu_per_h,startup_cost_USD,ramp_up_MW,startup_ramp_MW,ramp_down_MW,shutdown_ramp_MW,min_up_h,min_down_h
+unitA,Benchmark unit (Zivic Djurovic et al. 2012),100,300,-0.0014444444444444444,7.463333333333334,248.22222222222223,12000,100,100,100,100,4,6
+samsun,Samsun combined cycle unit,367,890,0.0016111111111111111,4.733333333333333,1655.5555555555557,50000,100,367,150,367,4,6
+gebze,Gebze-Dilovasi combined cycle unit,76,253,0.0035555555555555557,9.61111111111111,0,10000,50,76,75,76,4,4
