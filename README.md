@@ -1,5 +1,7 @@
 # Full-year profit-based unit commitment of natural gas-fired power plants
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24051002.svg)](https://doi.org/10.5281/zenodo.24051002)
+
 Models, data and analysis scripts for the paper
 
 > Ş. Kaya, A. D. Yücekaya, M. G. Özel, E. Çelebi, P. G. Canbolat.
@@ -16,7 +18,7 @@ If you use the models, data or scripts of this repository, please cite the paper
 
 and the archived version of this repository:
 
-> Kaya, Ş., Yücekaya, A. D., Özel, M. G., Çelebi, E., Canbolat, P. G. (2026). Full-year profit-based unit commitment of natural gas-fired power plants: models and data (Version 1.0). Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+> Kaya, Ş., Yücekaya, A. D., Özel, M. G., Çelebi, E., Canbolat, P. G. (2026). Full-year profit-based unit commitment of natural gas-fired power plants: models and data (Version 1.0). Zenodo. https://doi.org/10.5281/zenodo.24051002
 
 ```bibtex
 @article{kaya2026fullyear,
@@ -33,7 +35,7 @@ and the archived version of this repository:
   version   = {1.0},
   year      = {2026},
   publisher = {Zenodo},
-  doi       = {10.5281/zenodo.XXXXXXX},
+  doi       = {10.5281/zenodo.24051002},
   url       = {https://github.com/Seyma-Kaya-phd/natural-gas-price-based-unit-commitment}
 }
 ```
